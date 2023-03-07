@@ -1,7 +1,7 @@
 {
   "name": "single_page_app",
   "version": "0.1.0",
-  "homepage": "https://github.com/WernerO19/single-page-app",
+  "homepage": "https://WernerO19.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
@@ -55,3 +55,4 @@
     "tailwindcss": "^3.2.7"
   }
 }
+
